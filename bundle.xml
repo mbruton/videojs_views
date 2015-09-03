@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>videojs_views</name>
+        <label>Video.js Views</label>
+        <description></description>
+        <version>1.0.0</version>
+        <namespace>/extensions/videojs_views</namespace>
+        <depends_on>
+            <bundle>videojs</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
