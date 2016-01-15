@@ -5,9 +5,12 @@
         <label>Video.js Views</label>
         <description></description>
         <version>1.0.0</version>
-        <namespace>/extensions/videojs_views</namespace>
+        <namespace>\videojs\views</namespace>
         <depends_on>
-            <bundle>videojs</bundle>
+            <bundle>
+                <name>videojs</name>
+                <version>4.12</version>
+            </bundle>
         </depends_on>
     </bundle>
 </adapt_framework>
